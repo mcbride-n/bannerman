@@ -1,6 +1,6 @@
 Banner grabbing script I hacked up in python. Nothing fancy, but it does the job.
 
-Usage: bannerman.py [host] [method] [uri] [port]
+Usage: bannerman.py [host] [method] [uri] [port]\r\n
 [uri] is optional, defaults to /
 [port] is optional, defaults to 80
 
