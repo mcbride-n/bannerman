@@ -9,3 +9,6 @@ Usage: bannerman.py [host] [method] [uri] [port]
 allowed methods: get, put, connect, trace, head, options
 
 example usage: python bannerman.py www.google.com head / 80
+
+
+bannerman-edit.py is a version of the script that uses the same arguements, but adds in a parser to retrieve the Server version from the header returned from the server.
